@@ -1,6 +1,12 @@
 # Dreams's Queue Dodger for WOLTK Classic
+<br>
+<br>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/92863811/195077434-f922f59f-6e0c-4984-b626-7d9dbd4bfb33.png" alt="Sublime's custom image"/>
+</p>
 
-![Screenshot 2022-10-11 124637](https://user-images.githubusercontent.com/92863811/195077434-f922f59f-6e0c-4984-b626-7d9dbd4bfb33.png)
+<br>
+<br>
 
 With the release Blizzard added a new AntiAFK system, just jumping or move a step every minutes gets you kicked anyways and you be in Queue again.
 
